@@ -1,5 +1,5 @@
 # data-science-capstone-project
-In this project, I analyzed different kinds of venues using the power of k-means clustering to seek the hidden patterns about the most visited venues in each of the suburbs within the City of Johannesburg municipality. 
+In this project, I analyzed different kinds of venues using the power of k-means clustering to seek the hidden patterns about the most visited venues in each of the suburbs within the City of Johannesburg municipality. I find it convenient to view the notebook via _nbviewer_ at https://nbviewer.org/github/Brighton94/data-science-capstone-project/blob/master/johannesburg-venues-ml.ipynb
 ## 1.1 Business Problem
 Suppose that there is a contractor trying to open a restaurant within the Johannesburg municipality, how can we use the current machine learning techniques to determine the suitable locations?
 To begin answering the question, it is reasonable to ask what makes a good location to situate a restaurant at? These are some of the key features to consider when opening a new restaurant:
