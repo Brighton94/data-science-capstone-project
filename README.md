@@ -3,6 +3,7 @@ In this project, I analyzed different kinds of venues using the power of k-means
 ## 1.1 Business Problem
 Suppose that there is a contractor trying to open a restaurant within the Johannesburg municipality, how can we use the current machine learning techniques to determine the suitable locations?
 To begin answering the question, it is reasonable to ask what makes a good location to situate a restaurant at? These are some of the key features to consider when opening a new restaurant:
+
 __Visibility:__ Urban areas tend to have high car and foot traffic. Locating a restaurant around towns would hence be a good choice. However, it could be possible to find places that offer high visibility for the restaurant, but also have high crime rates. Such areas are not best suited for family-style restaurant.
 
 __Parking:__ Places near parking lots would be another good choice. It would be ideal to have a restaurant with it’s own parking lot.
