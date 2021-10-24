@@ -11,6 +11,6 @@ __Parking:__ Places near parking lots would be another good choice. It would be 
 __Accessibility:__ It could be beneficial to have a restaurant built across a road with a relatively low speed limit and high car traffic. Supposedly around freeway/highway exits. As for foot traffic, a location near urbanized areas would be ideal. Inside shopping malls, an ideal place to have a restaurant would be within or near food courts.
 There are many other factors to also consider such as average income and the population of the area of interest. However, the goal of this project is to find out how urbanized an area is by finding out the most popular venues within that area (by 500 meters to be exact)and seek out hidden patterns that may reveal some additional information about a location.
 ## 1.2 The Data Set
-For this project, the geolocation data that I used was from Carto.com at https://adi45.carto.com/tables/metropolitan_suburbs_region/public/map .
+For this project, the geolocation data that I used was from Carto.com [here](https://adi45.carto.com/tables/metropolitan_suburbs_region/public/map).
 
 I wrote [a blog post on medium](https://brightonnkomo.medium.com/analyzing-venues-in-johannesburg-suburbs-with-machine-learning-ffc9b50dfb6b) to present my findings and insights. I basically describe what the problem is, the EDA that I did, why I used particluar the machine learnings and the results.
