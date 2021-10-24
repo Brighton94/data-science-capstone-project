@@ -13,4 +13,4 @@ There are many other factors to also consider such as average income and the pop
 ## 1.2 The Data Set
 For this project, the geolocation data that I used was from Carto.com [here](https://adi45.carto.com/tables/metropolitan_suburbs_region/public/map).
 
-I wrote [a blog post on medium](https://brightonnkomo.medium.com/analyzing-venues-in-johannesburg-suburbs-with-machine-learning-ffc9b50dfb6b) to present my findings and insights. I basically describe what the problem is, the EDA that I did, why I used particluar the machine learnings and the results.
+I wrote [a blog post on medium](https://brightonnkomo.medium.com/analyzing-venues-in-johannesburg-suburbs-with-machine-learning-ffc9b50dfb6b) to present my findings and insights. I basically describe what the problem is, the EDA that I did, why I used particluar machine learnings and the results.
